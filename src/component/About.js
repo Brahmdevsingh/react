@@ -1,4 +1,5 @@
 import React from 'react';
+import image from '../images/DP.jpg';
 function About() {
 
     return <div>
@@ -9,7 +10,7 @@ function About() {
            SEC.:5CSE02<br/>
            </font>
            <img 
-      src="https://drive.google.com/file/d/1VK0mYbC1-4wwxux_lvjJ7asmW26MtegG/view?usp=sharing"
+      src={image}
       alt="new"
       />
     </div>
