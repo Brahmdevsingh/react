@@ -11,7 +11,7 @@ function About() {
            </font>
            <img 
       src={image}
-      alt="new"
+      alt="o"
       />
     </div>
 
