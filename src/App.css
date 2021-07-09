@@ -44,13 +44,7 @@ nav{
   background-color: rgb(183, 235, 183);
   color: #d3d3db
 }
-img {
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  padding: 5px;
-  position: left top;
-  width: 100%;
-}
+
 body {
-background-color: gray ;
+background-color: rgb(19, 18, 18) ;
 }
