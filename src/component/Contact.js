@@ -1,6 +1,7 @@
 import React from 'react';
 
 
+
  function Contact (){
     
      return <div>
@@ -13,8 +14,9 @@ import React from 'react';
          <font face="Wildwest" size="20px" color="yellow"> 
          EMAIL: chauhanbds006@gmail.com  <br />
          </font>
-         <img src="C:\Users\BDs Chauhan\VAC\details\public\assets\images\contact.jpg" alt ="images of page"></img> <br/>
-         <img src="/assets/images/x.jpg" alt ="images of page"></img> <br/>
+         <img src="https://drive.google.com/file/d/1QaUUP5J21legun0Jnjp1w5Hc3vl5bS2r/view?usp=sharing" alt ="images of page"/> <br/>
+         <img src="https://drive.google.com/file/d/1f7QHDGJOPlekeDup41ciNIy9DTa9Lvxe/view?usp=sharing" alt ="images of page"/> <br/>
+        
          
     
  <br/>
